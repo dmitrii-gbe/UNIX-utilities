@@ -32,7 +32,6 @@ This will generate executable binaries for `grep` and `cat`.
 ./grep [OPTIONS] PATTERN [FILE...]
 ```
 
-
 - `PATTERN`: The regular expression to search for.
 - `FILE`: One or more files to search. If no files are specified, standard input is used.
 
@@ -47,10 +46,18 @@ This will generate executable binaries for `grep` and `cat`.
 8. **`-l`** → Only print filenames that contain matches.
 9. **`-o`** → Print only the matched parts of lines.
 
+## **Example Usage**
+
+- **grep**: Search for the word "example" in `file.txt`:
+
+  ```sh
+  ./grep "example" file.txt
+  ```
+
+---    
+
 **cat**
 This C program is an implementation of a **cat**-like utility with additional features controlled by various flags. Below is a breakdown of the **supported flags** based on how they are processed in `GetArguments()` and used throughout the program.
-
----
 
 ## **Supported Flags and Their Behavior**
 
@@ -65,7 +72,7 @@ This C program is an implementation of a **cat**-like utility with additional fe
 | **`-T`** | *(No long equivalent)* | Equivalent to `-t`. |
 | **`-v`** | *(No long equivalent)* | Show non-printable characters using caret notation (e.g., `^A` for ASCII 1). |
 
----
+
 
 ## **Implementation Details**
 - **Argument Parsing**
@@ -102,31 +109,7 @@ This C program is an implementation of a **cat**-like utility with additional fe
 ./cat -s file.txt       # Squeeze multiple empty lines
 ./cat -t file.txt       # Show tabs as ^I
 ```
-
-Would you like a README file or man-page-style documentation for this? 🚀
-
-```sh
-./cat [OPTIONS] [FILE...]
-```
-
-
 - `FILE`: One or more files to display. If no files are specified, standard input is used.
-
-## Examples
-
-- **grep**: Search for the word "example" in `file.txt`:
-
-  ```sh
-  ./grep "example" file.txt
-  ```
-
-
-- **cat**: Display the contents of `file.txt`:
-
-  ```sh
-  ./cat file.txt
-  ```
-
 
 ## License
 
