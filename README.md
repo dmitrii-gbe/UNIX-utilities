@@ -24,9 +24,7 @@ make
 
 This will generate executable binaries for `grep` and `cat`.
 
-## Usage
-
-**grep**
+## grep
 
 ```sh
 ./grep [OPTIONS] PATTERN [FILE...]
@@ -57,7 +55,7 @@ This will generate executable binaries for `grep` and `cat`.
 ---    
 
 **cat**
-This C program is an implementation of a **cat**-like utility with additional features controlled by various flags. Below is a breakdown of the **supported flags** based on how they are processed in `GetArguments()` and used throughout the program.
+This C program is an implementation of a **cat**-like utility with additional features controlled by various flags. Below is a breakdown of the **supported flags** based on how they are used throughout the program.
 
 ## **Supported Flags and Their Behavior**
 
@@ -71,7 +69,6 @@ This C program is an implementation of a **cat**-like utility with additional fe
 | **`-t`** | *(No long equivalent)* | Show tab characters as `^I` and enable `-v`. |
 | **`-T`** | *(No long equivalent)* | Equivalent to `-t`. |
 | **`-v`** | *(No long equivalent)* | Show non-printable characters using caret notation (e.g., `^A` for ASCII 1). |
-
 
 
 ## **Implementation Details**
