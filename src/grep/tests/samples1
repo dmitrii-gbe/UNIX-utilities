@@ -1,0 +1,134 @@
+ innovations, but also presented severe problems. Frustrated by the size and complexity of Multics, but not by its goals, individual researchers at Bell Labs started withdrawing from the project. The last to leave
+ INNOVATIONS, BUT ALSO PRESENTED SEVERE PROBLEMS. FRUSTRATED BY THE SIZE AND COMPLEXITY OF MULTICS, BUT NOT BY ITS GOALS, INDIVIDUAL RESEARCHERS AT BELL LABS STARTED WITHDRAWING FROM THE PROJECT. THE LAST TO LEAVE
+s for Uniplexed Information and Computing Service as a pun on Multics, which stood for Multiplexe
+S FOR UNIPLEXED INFORMATION AND COMPUTING SERVICE AS A PUN ON MULTICS, WHICH STOOD FOR MULTIPLEXE
+ring 1977 and
+RING 1977 AND
+ versions of Unix that are collectively referred to as Research Unix. In 1975, the
+ VERSIONS OF UNIX THAT ARE COLLECTIVELY REFERRED TO AS RESEARCH UNIX. IN 1975, THE
+to as Research Unix. In 1975, the first source license f
+TO AS RESEARCH UNIX. IN 1975, THE FIRST SOURCE LICENSE F
+compatible - systems including DYNIX, HP-UX, SunOS/Solaris, AIX, and Xenix. In the late 1980s, AT&T Unix System Laboratories and Sun Microsystems dev
+COMPATIBLE - SYSTEMS INCLUDING DYNIX, HP-UX, SUNOS/SOLARIS, AIX, AND XENIX. IN THE LATE 1980S, AT&T UNIX SYSTEM LABORATORIES AND SUN MICROSYSTEMS DEV
+e of Unix in academic
+E OF UNIX IN ACADEMIC
+ke systems grew in popularity and became the operating system of choice for over 90%
+KE SYSTEMS GREW IN POPULARITY AND BECAME THE OPERATING SYSTEM OF CHOICE FOR OVER 90%
+at were originally packaged together. By including the development environment, libraries, documents and the portable, modifiable source code for all of these
+AT WERE ORIGINALLY PACKAGED TOGETHER. BY INCLUDING THE DEVELOPMENT ENVIRONMENT, LIBRARIES, DOCUMENTS AND THE PORTABLE, MODIFIABLE SOURCE CODE FOR ALL OF THESE
+nents that were originally packaged together. By including the development environment, libraries, documents and the portable, modifiable source code for all of these components, in addition to the kernel of an operating system, Unix was a self-
+NENTS THAT WERE ORIGINALLY PACKAGED TOGETHER. BY INCLUDING THE DEVELOPMENT ENVIRONMENT, LIBRARIES, DOCUMENTS AND THE PORTABLE, MODIFIABLE SOURCE CODE FOR ALL OF THESE COMPONENTS, IN ADDITION TO THE KERNEL OF AN OPERATING SYSTEM, UNIX WAS A SELF-
+the portable, modifiable source code for all of these components, in addition to the kernel of an operating system, Unix w
+THE PORTABLE, MODIFIABLE SOURCE CODE FOR ALL OF THESE COMPONENTS, IN ADDITION TO THE KERNEL OF AN OPERATING SYSTEM, UNIX W
+components did not make the system
+COMPONENTS DID NOT MAKE THE SYSTEM
+ the system large - the original V7 UNIX distribution, consisting of copies of all of the compiled binaries plus all of the source code and documentation occupied less than 10 MB and arrived on a single nine-track magnetic tape, ea
+ THE SYSTEM LARGE - THE ORIGINAL V7 UNIX DISTRIBUTION, CONSISTING OF COPIES OF ALL OF THE COMPILED BINARIES PLUS ALL OF THE SOURCE CODE AND DOCUMENTATION OCCUPIED LESS THAN 10 MB AND ARRIVED ON A SINGLE NINE-TRACK MAGNETIC TAPE, EA
+and filesystem locations of the Unix components have changed substantially across the history of the system. Nonetheless, the V7 i
+AND FILESYSTEM LOCATIONS OF THE UNIX COMPONENTS HAVE CHANGED SUBSTANTIALLY ACROSS THE HISTORY OF THE SYSTEM. NONETHELESS, THE V7 I
+ of the Unix components have changed substantially across the history of the system. Nonetheless, the V7 implementation has the canonical early structur
+ OF THE UNIX COMPONENTS HAVE CHANGED SUBSTANTIALLY ACROSS THE HISTORY OF THE SYSTEM. NONETHELESS, THE V7 IMPLEMENTATION HAS THE CANONICAL EARLY STRUCTUR
+tantially across the history of the 
+TANTIALLY ACROSS THE HISTORY OF THE 
+ub-compon
+UB-COMPON
+rnel - source code in /usr/sys, composed of several sub-component
+RNEL - SOURCE CODE IN /USR/SYS, COMPOSED OF SEVERAL SUB-COMPONENT
+dependent parts, including boot c
+DEPENDENT PARTS, INCLUDING BOOT C
+nd machine-dependent
+ND MACHINE-DEPENDENT
+       conf - configuration and machine-depe
+       CONF - CONFIGURATION AND MACHINE-DEPE
+ operating system "ker
+ OPERATING SYSTEM "KER
+sys - operati
+SYS - OPERATI
+    sys - operating system "kernel", handling memory management, process
+    SYS - OPERATING SYSTEM "KERNEL", HANDLING MEMORY MANAGEMENT, PROCESS
+es, defining key structures within the system and important sys
+ES, DEFINING KEY STRUCTURES WITHIN THE SYSTEM AND IMPORTANT SYS
+r files, defining key structures within the 
+R FILES, DEFINING KEY STRUCTURES WITHIN THE 
+elopment environment - early versions of Unix contained a development environment sufficient to recreat
+ELOPMENT ENVIRONMENT - EARLY VERSIONS OF UNIX CONTAINED A DEVELOPMENT ENVIRONMENT SUFFICIENT TO RECREAT
+   Development envir
+   DEVELOPMENT ENVIR
+  Development environment - early versions of Unix contained a develop
+  DEVELOPMENT ENVIRONMENT - EARLY VERSIONS OF UNIX CONTAINED A DEVELOP
+ - text editor, for creating source co
+ - TEXT EDITOR, FOR CREATING SOURCE CO
+        as - machine-language ass
+        AS - MACHINE-LANGUAGE ASS
+-language assembler for th
+-LANGUAGE ASSEMBLER FOR TH
+mbining object file
+MBINING OBJECT FILE
+  ld - linker, for combini
+  LD - LINKER, FOR COMBINI
+bining object
+BINING OBJECT
+mary library, but there have always been additional libraries for things such as mathemat
+MARY LIBRARY, BUT THERE HAVE ALWAYS BEEN ADDITIONAL LIBRARIES FOR THINGS SUCH AS MATHEMAT
+rd interf
+RD INTERF
+erfaces an
+ERFACES AN
+ons contain many other language compilers and toolsets. Early BSD releases included Pascal tools, and 
+ONS CONTAIN MANY OTHER LANGUAGE COMPILERS AND TOOLSETS. EARLY BSD RELEASES INCLUDED PASCAL TOOLS, AND 
+ome majo
+OME MAJO
+     sh - the "shell" programmable command-line interpreter, the primary u
+     SH - THE "SHELL" PROGRAMMABLE COMMAND-LINE INTERPRETER, THE PRIMARY U
+r, the primary user interfac
+R, THE PRIMARY USER INTERFAC
+"shell" programmable command-line interpreter, the primary user i
+"SHELL" PROGRAMMABLE COMMAND-LINE INTERPRETER, THE PRIMARY USER I
+Unix comm
+UNIX COMM
+, including cp, ls, 
+, INCLUDING CP, LS, 
+ies inc
+IES INC
+     System utilities - administrative tools such as mkfs, fsck, 
+     SYSTEM UTILITIES - ADMINISTRATIVE TOOLS SUCH AS MKFS, FSCK, 
+          System utilities - administrative tools such as mkfs, fsck
+          SYSTEM UTILITIES - ADMINISTRATIVE TOOLS SUCH AS MKFS, FSCK
+fs, fsck, and many o
+FS, FSCK, AND MANY O
+  User utilities - 
+  USER UTILITIES - 
+    User uti
+    USER UTI
+e used from the outset for document preparation and typesetting systems, and included many related programs such as nroff, troff, tbl
+E USED FROM THE OUTSET FOR DOCUMENT PREPARATION AND TYPESETTING SYSTEMS, AND INCLUDED MANY RELATED PROGRAMS SUCH AS NROFF, TROFF, TBL
+grams such as nroff, troff, tbl, eqn, refer, and pic. Some mod
+GRAMS SUCH AS NROFF, TROFF, TBL, EQN, REFER, AND PIC. SOME MOD
+ration and typesetting systems, and included many related programs such as nroff, troff, tbl, eqn, refer, and pic. Some modern Unix syst
+RATION AND TYPESETTING SYSTEMS, AND INCLUDED MANY RELATED PROGRAMS SUCH AS NROFF, TROFF, TBL, EQN, REFER, AND PIC. SOME MODERN UNIX SYST
+system provided facilities for producing simple vector plots in a device-independent format, with device-specific interpreters to display such files. Modern Unix systems also generally include X11 as a standard windowing system and 
+SYSTEM PROVIDED FACILITIES FOR PRODUCING SIMPLE VECTOR PLOTS IN A DEVICE-INDEPENDENT FORMAT, WITH DEVICE-SPECIFIC INTERPRETERS TO DISPLAY SUCH FILES. MODERN UNIX SYSTEMS ALSO GENERALLY INCLUDE X11 AS A STANDARD WINDOWING SYSTEM AND 
+        Graphics - the plot subsystem provided facilities for producing simple vector plots in a device-independent format, with device-specific interpreters to display such files. Modern Unix systems also generally include X11 as a standard windowing system and GUI, and many su
+        GRAPHICS - THE PLOT SUBSYSTEM PROVIDED FACILITIES FOR PRODUCING SIMPLE VECTOR PLOTS IN A DEVICE-INDEPENDENT FORMAT, WITH DEVICE-SPECIFIC INTERPRETERS TO DISPLAY SUCH FILES. MODERN UNIX SYSTEMS ALSO GENERALLY INCLUDE X11 AS A STANDARD WINDOWING SYSTEM AND GUI, AND MANY SU
+       Graphics - the plot subsystem provided facilities for producing simple vector plots in a device-independent format, with device-specific interpreters to display such files. Modern Unix systems also gene
+       GRAPHICS - THE PLOT SUBSYSTEM PROVIDED FACILITIES FOR PRODUCING SIMPLE VECTOR PLOTS IN A DEVICE-INDEPENDENT FORMAT, WITH DEVICE-SPECIFIC INTERPRETERS TO DISPLAY SUCH FILES. MODERN UNIX SYSTEMS ALSO GENE
+ programs mail and write. V7 introduced the early inter-system communication system UUCP, and systems beginning wi
+ PROGRAMS MAIL AND WRITE. V7 INTRODUCED THE EARLY INTER-SYSTEM COMMUNICATION SYSTEM UUCP, AND SYSTEMS BEGINNING WI
+he inter-user communication programs mail and write. V7 introduced the early inter-
+HE INTER-USER COMMUNICATION PROGRAMS MAIL AND WRITE. V7 INTRODUCED THE EARLY INTER-
+nd systems beginning with BSD release 4.1c included TCP
+ND SYSTEMS BEGINNING WITH BSD RELEASE 4.1C INCLUDED TCP
+Unix was one of the first operating systems to include all of its documentation online in mach
+UNIX WAS ONE OF THE FIRST OPERATING SYSTEMS TO INCLUDE ALL OF ITS DOCUMENTATION ONLINE IN MACH
+nual pages for each command, library compo
+NUAL PAGES FOR EACH COMMAND, LIBRARY COMPO
+  man - manual pages for each command, li
+  MAN - MANUAL PAGES FOR EACH COMMAND, LI
+       man - manual pages for each command, library component, system call, h
+       MAN - MANUAL PAGES FOR EACH COMMAND, LIBRARY COMPONENT, SYSTEM CALL, H
+ documents detailing major subsystems, such a
+ DOCUMENTS DETAILING MAJOR SUBSYSTEMS, SUCH A
+ed in modern servers, workstatio
+ED IN MODERN SERVERS, WORKSTATIO
+uments detailing major subsystems, such as the C language and 
+UMENTS DETAILING MAJOR SUBSYSTEMS, SUCH AS THE C LANGUAGE AND 

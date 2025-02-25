@@ -1,0 +1,20 @@
+eant to be a convenient platform for programmers developing software to be run on it and on
+EANT TO BE A CONVENIENT PLATFORM FOR PROGRAMMERS DEVELOPING SOFTWARE TO BE RUN ON IT AND ON
+ of software tools, small programs that can be strung together through a command-line interpreter using pipes, as opposed to using a single monolithic program that includes all of the same functionality. These concepts are collectively known as the "Unix philosophy". Brian Kernighan and Rob Pike summarize this 
+ OF SOFTWARE TOOLS, SMALL PROGRAMS THAT CAN BE STRUNG TOGETHER THROUGH A COMMAND-LINE INTERPRETER USING PIPES, AS OPPOSED TO USING A SINGLE MONOLITHIC PROGRAM THAT INCLUDES ALL OF THE SAME FUNCTIONALITY. THESE CONCEPTS ARE COLLECTIVELY KNOWN AS THE "UNIX PHILOSOPHY". BRIAN KERNIGHAN AND ROB PIKE SUMMARIZE THIS 
+rnet and the r
+RNET AND THE R
+ as a potential un
+ AS A POTENTIAL UN
+rnment and academic institutions, which led to both being ported to a wider variety of machine families than any other operating system
+RNMENT AND ACADEMIC INSTITUTIONS, WHICH LED TO BOTH BEING PORTED TO A WIDER VARIETY OF MACHINE FAMILIES THAN ANY OTHER OPERATING SYSTEM
+anguage were developed by AT&T and distributed to government and academic institutions, which
+ANGUAGE WERE DEVELOPED BY AT&T AND DISTRIBUTED TO GOVERNMENT AND ACADEMIC INSTITUTIONS, WHICH
+variety of machine fa
+VARIETY OF MACHINE FA
+he master control program, the kernel. The kernel provides services to start and stop programs, handles the file system an
+HE MASTER CONTROL PROGRAM, THE KERNEL. THE KERNEL PROVIDES SERVICES TO START AND STOP PROGRAMS, HANDLES THE FILE SYSTEM AN
+y. To mediate such access, the kernel has special rights, reflected in the distinction of kernel space from user space, the latter being a lower priority realm w
+Y. TO MEDIATE SUCH ACCESS, THE KERNEL HAS SPECIAL RIGHTS, REFLECTED IN THE DISTINCTION OF KERNEL SPACE FROM USER SPACE, THE LATTER BEING A LOWER PRIORITY REALM W
+level" tasks that most programs share, and schedules access 
+LEVEL" TASKS THAT MOST PROGRAMS SHARE, AND SCHEDULES ACCESS 

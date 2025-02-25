@@ -1,0 +1,33 @@
+kdjhgsld; sdkhgdjfhg
+100
+blink
+88-color
+"capabilities"
+:Sl=:Cx=:Fn
+:sl=:cx=:Fn
+
+^$
+$
+^.*modes
+^.*Modes
+XFGHJZDFKGDKFsdfsdfsd
+^.*default$
+^.*Default$
+decimal representation
+in\|the\|bn
+be
+library. Non-empty
+attributes
+aTTributes
+[1-2][0,9][0-9][0-9]
+in\(.popularity\|.lib\|.assembly\)
+[1,2][0-9]\{3\}
+Unix\|seeing
+[1-9]\+\(]\)
+[A-Z][a-z]\+ \(\([A-Z][a-z]\+[A-Z][a-z]\+\)\|\([A-Z][a-z]\+\)\)
+[A-Z][a-z]\+ [A-Z]\. [A-Z][a-z]\+
+e\.g\. [a-z]\+
+(.\+)
+ [a-z]\{3,7\}$
+[A-Z][a-z]\+ \(\([A-Z][a-z]\+[A-Z][a-z]\+\)\|\([A-Z][a-z]\+\)\)
+[A-Z][a-z]\+ [A-Z]\. [A-Z][a-z]\+
