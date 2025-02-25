@@ -36,6 +36,17 @@ This will generate executable binaries for `grep` and `cat`.
 - `PATTERN`: The regular expression to search for.
 - `FILE`: One or more files to search. If no files are specified, standard input is used.
 
+### **Supported Flags:**
+1. **`-e`** → Define a search pattern (explicitly specified in the command line).
+2. **`-f`** → Read patterns from a file.
+3. **`-i`** → Case-insensitive search.
+4. **`-v`** → Invert match (select lines that do not match).
+5. **`-c`** → Count matching lines instead of printing them.
+6. **`-n`** → Prefix output lines with their line numbers.
+7. **`-h`** → Suppress filenames in output (used when multiple files are provided).
+8. **`-l`** → Only print filenames that contain matches.
+9. **`-o`** → Print only the matched parts of lines.
+
 **cat**
 
 ```sh
